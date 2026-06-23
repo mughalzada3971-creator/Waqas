@@ -1,0 +1,59 @@
+‎╔══════════════════════════════╗
+‎❤️‍🔥 『 🆆🅰🆀🅰🆂 𝐎𝐍 𝐅𝐈𝐑𝐄 🔥 』
+‎╚══════════════════════════════╝
+‎
+
+‎➤➤➤ 𝐌𝟏 『 ᴜᴘᴅᴀᴛᴇ ᴅᴏɴᴇ 』 ✅
+
+‎
+
+‎━━━━━━━━━━━━━━━━━━━━
+
+‎♛ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 ➪ ➒.➊
+‎
+━━━━━━━━━━━━━━━━━━━━
+
+‎📥 『 𝐏𝐊𝐆𝐒 𝐒𝐄𝐓𝐔𝐏 』
+‎
+‎➜ termux-setup-storage
+
+‎➜ apt update
+
+‎➜ pkg install python
+
+‎➜ pkg install git
+
+‎➜ pip install requests
+
+‎➜ pip install bs4
+
+‎➜ pip install httpx
+
+‎
+‎━━━━━━━━━━━━━━━━━━━━
+‎
+‎⚔️ 『 𝐓𝐎𝐎𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 』
+‎
+‎➜ rm -rf Old-Clone
+
+‎➜ https://github.com/mughalzada3971-creator/Waqas.git
+
+‎➜ cd Old-Clone
+
+‎➜ python Tricker.py
+‎
+‎━━━━━━━━━━━━━━━━━━━━
+‎
+‎💚 『 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣 』
+
+‎
+‎🔗 Message MIRZA WAQAS on WhatsApp. https://wa.me/923011812555
+‎
+‎
+━━━━━━━━━━━━━━━━━━━━
+🔥 『 𝐊𝐈𝐍𝐆 𝐎𝐅 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 』 🔥
+   👑 🆆🅰🆀🅰🆂 𝗧𝐎𝐎𝐋 👑
+━━━━━━━━━━━━━━━━━━━━
+‎
+‎
+‎
